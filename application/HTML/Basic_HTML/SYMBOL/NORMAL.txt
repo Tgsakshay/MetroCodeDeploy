@@ -1,0 +1,37 @@
+Char	Number	Entity	Description
+?	&#8704;	&forall;	FOR ALL
+?	&#8706;	&part;	PARTIAL DIFFERENTIAL
+?	&#8707;	&exist;	THERE EXISTS
+Ø	&#8709;	&empty;	EMPTY SETS
+?	&#8711;	&nabla;	NABLA
+?	&#8712;	&isin;	ELEMENT OF
+?	&#8713;	&notin;	NOT AN ELEMENT OF
+?	&#8715;	&ni;	CONTAINS AS MEMBER
+?	&#8719;	&prod;	N-ARY PRODUCT
+?	&#8721;	&sum;	N-ARY SUMMATION
+Full Math Reference
+
+Some Greek Letters Supported by HTML
+Char	Number	Entity	Description
+?	&#913;	&Alpha;	GREEK CAPITAL LETTER ALPHA
+?	&#914;	&Beta;	GREEK CAPITAL LETTER BETA
+G	&#915;	&Gamma;	GREEK CAPITAL LETTER GAMMA
+?	&#916;	&Delta;	GREEK CAPITAL LETTER DELTA
+?	&#917;	&Epsilon;	GREEK CAPITAL LETTER EPSILON
+?	&#918;	&Zeta;	GREEK CAPITAL LETTER ZETA
+Full Greek Reference
+
+Some Other Entities Supported by HTML
+Char	Number	Entity	Description
+©	&#169;	&copy;	COPYRIGHT SIGN
+®	&#174;	&reg;	REGISTERED SIGN
+€	&#8364;	&euro;	EURO SIGN
+™	&#8482;	&trade;	TRADEMARK
+?	&#8592;	&larr;	LEFTWARDS ARROW
+?	&#8593;	&uarr;	UPWARDS ARROW
+?	&#8594;	&rarr;	RIGHTWARDS ARROW
+?	&#8595;	&darr;	DOWNWARDS ARROW
+?	&#9824;	&spades;	BLACK SPADE SUIT
+?	&#9827;	&clubs;	BLACK CLUB SUIT
+?	&#9829;	&hearts;	BLACK HEART SUIT
+?	&#9830;	&diams;	BLACK DIAMOND SUIT
